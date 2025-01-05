@@ -1,0 +1,29 @@
+MEMBRES DEL GRUP:
+Aleix Armero Rofes
+Pol Ribera Moreno
+
+FUNCIONALITATS:
+Totes les requerides en el pdf de l'assignatura
+Pujar i baixar escales 
+
+INSTRUCCIONS:
+Menú principal:
+	W - Amunt
+	S - Avall
+	Espai - Seleccionar
+	Escape - Tancar
+Joc:
+	D - Moviment dreta
+	A - Moviment Esquerra
+	W - Saltar/Pujar escales
+	S - Ajupir-se/Caure de cul/Baixar escales
+	H - Regeneració de vida
+	G - God mode
+	V - Agafar/Llençar objectes 
+	N - Passar al seguent nivell
+
+Per passar al seguent nivell del joc sense fer servir la N, s'ha de recolectar
+la gema que hi ha al final de cada nivell.
+
+En el video no es veuen els dos mapes per que la durada d'aquest no dona per tant. Només
+es veu el del tutorial.
